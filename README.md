@@ -2,10 +2,10 @@
 
 Exploratory Data Analysis (EDA) Report
 Insurance Sales & Customer Analysis
-1. Project Overview
+## 1. Project Overview
 This project focuses on analysing insurance sales data by integrating multiple datasets, cleaning inconsistent records, performing feature engineering, and conducting Exploratory Data Analysis (EDA). The objective is to understand customer behaviour, product performance, sales trends, and business performance through data visualization and KPI analysis.
 ________________________________________
-2. Project Objectives
+## 2. Project Objectives
 •	Clean and pre-process raw insurance datasets.
 •	Merge multiple tables into a single analytical dataset.
 •	Perform feature engineering.
