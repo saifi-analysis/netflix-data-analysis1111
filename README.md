@@ -13,7 +13,7 @@ ________________________________________
 •	Visualize business performance using charts.
 •	Identify business patterns to support decision-making.
 ________________________________________
-3. Dataset Description
+## 3. Dataset Description
 The project uses four datasets:
 Dataset	Description
 Customers	Customer information including demographic details.
@@ -21,11 +21,11 @@ Orders	Order details such as payment method, order date, and status.
 Order Items	Product quantity, unit price, and order-level sales information.
 Products	Product information including category and product name.
 ________________________________________
-4. Libraries Used
-•	Pandas
-•	NumPy
-•	Matplotlib
-•	Seaborn
+## 4. Libraries Used
+#### •	Pandas
+#### •	NumPy
+#### •	Matplotlib
+#### •	Seaborn
 ________________________________________
 5. Data Loading
 The datasets were imported using Pandas and stored in separate Data Frames before pre-processing.
